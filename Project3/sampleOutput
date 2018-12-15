@@ -1,0 +1,374 @@
+nickhudson4@nickspc2244:~/Dropbox/AES Project/Project3$ ./output 
+==============================
+**Pick an Option**
+(1) Add User
+(2) Login
+(3) Dev Menu
+(4) Quit
+Selection: 3
+(1) View Encrypted Profile
+(2) Timed Encrypt
+Selection: 2
+==============================
+Time to Encrypt 10000 Words: 0.0482564 seconds
+Time to Decrypt 10000 Words: 0.0482097 seconds
+==============================
+Time to Encrypt 50000 Words: 0.202583 seconds
+Time to Decrypt 50000 Words: 0.20245 seconds
+==============================
+Time to Encrypt 90000 Words: 0.371385 seconds
+Time to Decrypt 90000 Words: 0.371173 seconds
+==============================
+Time to Encrypt 130000 Words: 0.524546 seconds
+Time to Decrypt 130000 Words: 0.524947 seconds
+==============================
+Time to Encrypt 170000 Words: 0.738881 seconds
+Time to Decrypt 170000 Words: 0.736854 seconds
+==============================
+Time to Encrypt 210000 Words: 0.873982 seconds
+Time to Decrypt 210000 Words: 0.875968 seconds
+==============================
+Time to Encrypt 250000 Words: 1.06542 seconds
+Time to Decrypt 250000 Words: 1.06231 seconds
+==============================
+Time to Encrypt 290000 Words: 1.22442 seconds
+Time to Decrypt 290000 Words: 1.22353 seconds
+==============================
+Time to Encrypt 330000 Words: 1.34719 seconds
+Time to Decrypt 330000 Words: 1.34788 seconds
+==============================
+Time to Encrypt 370000 Words: 1.50186 seconds
+Time to Decrypt 370000 Words: 1.50239 seconds
+==============================
+Time to Encrypt 410000 Words: 1.66806 seconds
+Time to Decrypt 410000 Words: 1.66762 seconds
+==============================
+Time to Encrypt 450000 Words: 1.83779 seconds
+Time to Decrypt 450000 Words: 1.83768 seconds
+==============================
+Time to Encrypt 490000 Words: 2.08565 seconds
+Time to Decrypt 490000 Words: 2.0834 seconds
+==============================
+Time to Encrypt 530000 Words: 2.16275 seconds
+Time to Decrypt 530000 Words: 2.16355 seconds
+==============================
+Time to Encrypt 570000 Words: 2.32766 seconds
+Time to Decrypt 570000 Words: 2.32677 seconds
+==============================
+Time to Encrypt 610000 Words: 2.56846 seconds
+Time to Decrypt 610000 Words: 2.56501 seconds
+==============================
+Time to Encrypt 650000 Words: 2.89528 seconds
+Time to Decrypt 650000 Words: 2.88462 seconds
+==============================
+Time to Encrypt 690000 Words: 2.98834 seconds
+Time to Decrypt 690000 Words: 2.97985 seconds
+==============================
+Time to Encrypt 730000 Words: 3.14005 seconds
+Time to Decrypt 730000 Words: 3.13194 seconds
+==============================
+Time to Encrypt 770000 Words: 3.31772 seconds
+Time to Decrypt 770000 Words: 3.30805 seconds
+
+==============================
+**Timing Encrypt/Decrypt Based on Word Size**
+Time to Encrypt 10000 Sized Word: 0.0024753 seconds
+Time to Decrypt 10000 Sized Word: 0.00236156 seconds
+==============================
+**Timing Encrypt/Decrypt Based on Word Size**
+Time to Encrypt 50000 Sized Word: 0.0138223 seconds
+Time to Decrypt 50000 Sized Word: 0.0259787 seconds
+==============================
+**Timing Encrypt/Decrypt Based on Word Size**
+Time to Encrypt 90000 Sized Word: 0.04619 seconds
+Time to Decrypt 90000 Sized Word: 0.0230928 seconds
+==============================
+**Timing Encrypt/Decrypt Based on Word Size**
+Time to Encrypt 130000 Sized Word: 0.0561741 seconds
+Time to Decrypt 130000 Sized Word: 0.0386392 seconds
+==============================
+**Timing Encrypt/Decrypt Based on Word Size**
+Time to Encrypt 170000 Sized Word: 0.0762533 seconds
+Time to Decrypt 170000 Sized Word: 0.0408947 seconds
+==============================
+**Timing Encrypt/Decrypt Based on Word Size**
+Time to Encrypt 210000 Sized Word: 0.0757371 seconds
+Time to Decrypt 210000 Sized Word: 0.0504635 seconds
+==============================
+**Timing Encrypt/Decrypt Based on Word Size**
+Time to Encrypt 250000 Sized Word: 0.0863338 seconds
+Time to Decrypt 250000 Sized Word: 0.0613795 seconds
+==============================
+**Timing Encrypt/Decrypt Based on Word Size**
+Time to Encrypt 290000 Sized Word: 0.0976403 seconds
+Time to Decrypt 290000 Sized Word: 0.0696911 seconds
+==============================
+**Timing Encrypt/Decrypt Based on Word Size**
+Time to Encrypt 330000 Sized Word: 0.112295 seconds
+Time to Decrypt 330000 Sized Word: 0.0800199 seconds
+==============================
+**Timing Encrypt/Decrypt Based on Word Size**
+Time to Encrypt 370000 Sized Word: 0.115291 seconds
+Time to Decrypt 370000 Sized Word: 0.0898821 seconds
+==============================
+**Timing Encrypt/Decrypt Based on Word Size**
+Time to Encrypt 410000 Sized Word: 0.121768 seconds
+Time to Decrypt 410000 Sized Word: 0.103008 seconds
+==============================
+**Timing Encrypt/Decrypt Based on Word Size**
+Time to Encrypt 450000 Sized Word: 0.142225 seconds
+Time to Decrypt 450000 Sized Word: 0.109104 seconds
+==============================
+**Timing Encrypt/Decrypt Based on Word Size**
+Time to Encrypt 490000 Sized Word: 0.141973 seconds
+Time to Decrypt 490000 Sized Word: 0.117918 seconds
+==============================
+**Timing Encrypt/Decrypt Based on Word Size**
+Time to Encrypt 530000 Sized Word: 0.171478 seconds
+Time to Decrypt 530000 Sized Word: 0.130154 seconds
+==============================
+**Timing Encrypt/Decrypt Based on Word Size**
+Time to Encrypt 570000 Sized Word: 0.163479 seconds
+Time to Decrypt 570000 Sized Word: 0.138631 seconds
+==============================
+**Timing Encrypt/Decrypt Based on Word Size**
+Time to Encrypt 610000 Sized Word: 0.193319 seconds
+Time to Decrypt 610000 Sized Word: 0.148671 seconds
+==============================
+**Timing Encrypt/Decrypt Based on Word Size**
+Time to Encrypt 650000 Sized Word: 0.179393 seconds
+Time to Decrypt 650000 Sized Word: 0.175277 seconds
+==============================
+**Timing Encrypt/Decrypt Based on Word Size**
+Time to Encrypt 690000 Sized Word: 0.184415 seconds
+Time to Decrypt 690000 Sized Word: 0.169371 seconds
+==============================
+**Timing Encrypt/Decrypt Based on Word Size**
+Time to Encrypt 730000 Sized Word: 0.203189 seconds
+Time to Decrypt 730000 Sized Word: 0.189972 seconds
+==============================
+**Timing Encrypt/Decrypt Based on Word Size**
+Time to Encrypt 770000 Sized Word: 0.210445 seconds
+Time to Decrypt 770000 Sized Word: 0.190547 seconds
+==============================
+**Pick an Option**
+(1) Add User
+(2) Login
+(3) Dev Menu
+(4) Quit
+
+
+
+nickhudson4@nickspc2244:~/Dropbox/AES Project/Project3$ ./output 
+==============================
+**Pick an Option**
+(1) Add User
+(2) Login
+(3) Dev Menu
+(4) Quit
+Selection: 1
+==============================
+Enter Username: testUser1
+What is your name?:  Jack
+Enter Phone Number: 3025194424  
+Create a Number Only Password: 1234567891234567
+==============================
+**Pick an Option**
+(1) Add User
+(2) Login
+(3) Dev Menu
+(4) Quit
+Selection: 2
+==============================
+Enter Username: testUser1
+Enter your Number Only Password: 1234567891234567
+USER FOUND: 
+==============================
+Profile for testUser1: 
+Name: Jack
+Phone Number: 3025194424
+==============================
+==============================
+**Pick an Option**
+(1) Edit User
+(2) Remove User
+(3) Exit
+Selection: 1
+==============================
+(1) Change Name
+(2) Change Phone Number
+Selection: 1 
+Enter new info: Jackie
+==============================
+**Pick an Option**
+(1) Edit User
+(2) Remove User
+(3) Exit
+Selection: 3
+==============================
+**Pick an Option**
+(1) Add User
+(2) Login
+(3) Dev Menu
+(4) Quit
+Selection: 2
+==============================
+Enter Username: testUser1
+Enter your Number Only Password: 1234567891234567
+USER FOUND: 
+==============================
+Profile for testUser1: 
+Name: Jackie
+Phone Number: 3025194424
+==============================
+
+
+
+nickhudson4@nickspc2244:~/Dropbox/AES Project/Project3$ ./output 
+==============================
+**Pick an Option**
+(1) Add User
+(2) Login
+(3) Dev Menu
+(4) Quit
+Selection: 1
+==============================
+Enter Username: testPassword
+What is your name?:  Joe
+Enter Phone Number: 1111111111
+Create a 16 Character Number Only Password: 1234567891234567
+==============================
+**Pick an Option**
+(1) Add User
+(2) Login
+(3) Dev Menu
+(4) Quit
+Selection: 2
+==============================
+Enter Username: testPassword
+Enter your 16 Character Number Only Password: 1111111111111111
+**Incorrect Password for testPassword!**
+==============================
+**Pick an Option**
+(1) Add User
+(2) Login
+(3) Dev Menu
+(4) Quit
+Selection: 2
+==============================
+Enter Username: wrongUsername
+Enter your 16 Character Number Only Password: 1234567891234567
+**Incorrect Username!**
+==============================
+**Pick an Option**
+(1) Add User
+(2) Login
+(3) Dev Menu
+(4) Quit
+Selection: 
+
+
+
+
+nickhudson4@nickspc2244:~/Dropbox/AES Project/Project3$ ./output 
+==============================
+**Pick an Option**
+(1) Add User
+(2) Login
+(3) Dev Menu
+(4) Quit
+Selection: 1
+==============================
+Enter Username: testRemoveFunction
+What is your name?:  Max 
+Enter Phone Number: 11111111111
+Create a 16 Character Number Only Password: 1234567891234567
+==============================
+**Pick an Option**
+(1) Add User
+(2) Login
+(3) Dev Menu
+(4) Quit
+Selection: 2
+==============================
+Enter Username: testRemoveFunction
+Enter your 16 Character Number Only Password: 1234567891234567
+USER FOUND: 
+==============================
+Profile for testRemoveFunction: 
+Name: Max
+Phone Number: 11111111111
+==============================
+==============================
+**Pick an Option**
+(1) Edit User
+(2) Remove User
+(3) Exit
+Selection: 2
+User testRemoveFunction Removed!
+==============================
+**Pick an Option**
+(1) Edit User
+(2) Remove User
+(3) Exit
+Selection: 3
+==============================
+**Pick an Option**
+(1) Add User
+(2) Login
+(3) Dev Menu
+(4) Quit
+Selection: 2
+==============================
+Enter Username: testRemoveFunction
+Enter your 16 Character Number Only Password: 1234567891234567
+**Incorrect Username!**
+==============================
+**Pick an Option**
+(1) Add User
+(2) Login
+(3) Dev Menu
+(4) Quit
+Selection: 
+
+
+
+
+nickhudson4@nickspc2244:~/Dropbox/AES Project/Project3$ ./output 
+==============================
+**Pick an Option**
+(1) Add User
+(2) Login
+(3) Dev Menu
+(4) Quit
+Selection: 1
+==============================
+Enter Username: testUser2
+What is your name?:  user
+Enter Phone Number: 1234567889
+Create a 16 Character Number Only Password: 1212121212121212
+==============================
+**Pick an Option**
+(1) Add User
+(2) Login
+(3) Dev Menu
+(4) Quit
+Selection: 3
+(1) View Encrypted Profile
+(2) Timed Encrypt
+Selection: 1
+Enter Username to View: testUser2
+==============================
+Profile for testUser2: 
+Name: cf 3f ab 38 a4 1e 5 ae ba e5 a2 ef 9a f3 9 36 
+Phone Number: 19 3e c9 56 b3 99 f0 a 35 f7 21 64 f7 e7 68 5a 
+==============================
+==============================
+**Pick an Option**
+(1) Add User
+(2) Login
+(3) Dev Menu
+(4) Quit
+Selection: 
+
+
