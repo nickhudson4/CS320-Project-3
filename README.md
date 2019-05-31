@@ -1,7 +1,7 @@
-# CS320-Project-3
+# Password Hashing with AES
 Program implementing AES encrypted hash table
 
-# Project 3 README:
+# Project README:
 
 ## a.) Approach:
 
