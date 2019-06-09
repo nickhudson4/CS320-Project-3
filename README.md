@@ -3,11 +3,6 @@ Program implementing AES encrypted hash table
 
 # Project README:
 
-## a.) Approach:
-
-Starting out on this project, I first focused on getting an understanding about how encryption algorithms worked in general. Since I had never coded anything similar to AES encryption, I had to learn a lot about the topic. Next, I watched a YouTube series that went into detail about each of the AES operations and what exactly they did. I found the mix columns step in the algorithm to be the most interesting and the most challenging. It involved matrix multiplication but used XOR to come up with the solution.  Near the end of the video series I began attempting to implement what I was learning into code. During this process I had to familiarize myself with character arrays since I had only really used strings for things like this in C++. This made certain things very difficult such as getting user input and making the hash table store them. Luckily, I was able to get everything other than the keys to be converted into strings. Therefore I could put user input in strings, then convert them into chars once the messages had to be encrypted. I even converted the encrypted messages into strings before storing them in the has table. After I had the encryption finished, I worked on the decryption which wasn’t anything new considering it was very similar to encryption. Finally, I implemented the hash table using knowledge I had from project 2.
-
-
 ## b.) Design:
 
 The whole project is separated into two pairs of .h/.cpp files. The encryption/decryption is in one pair, and the hash table is in the other. Then I used a separate main.cpp file. For the AES algorithms to work with the hash table, I first grab the user’s username, name, phone number, and password. All of this except the username is encrypted. Next, I find the hash value by hashing the clear text username which is not encrypted. Then all four inputs are put in the hash table after being converted to strings. When the user logs in, they have to enter their username and password. The program first encrypts the entered passwords, then searches for hash bucket with the matching username, and then compares the encrypted password to the one stored in the hash table. If both the username and the password match, then the login is successful.
